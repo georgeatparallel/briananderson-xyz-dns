@@ -98,6 +98,7 @@ GitHub Actions workflow automatically:
 | [docs/architecture.md](docs/architecture.md) | Architecture, modules, and setup guide |
 | [docs/secrets-setup.md](docs/secrets-setup.md) | GitHub Secrets and OIDC configuration |
 | [docs/dns-records.md](docs/dns-records.md) | DNS records quick reference |
+| [docs/mcp-gateway.md](docs/mcp-gateway.md) | Optional web search and page fetching through the MCP gateway |
 
 ## License
 
